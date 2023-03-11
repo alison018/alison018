@@ -6,17 +6,18 @@ I have been learning **programming** for the past fourth months. It has been a r
 
 I will be learning a bunch of stuff in Undefined academy for the next 16 months. Some of the topics are as follows:
 
-- Git y Github
-- Configuración del entorno de desarrollo (Prework)
-- El mundo de Markdown
-- Introducción a HTML y CSS
+- Git and Github
+- Configuration of the development environment (Prework)
+- The world of Markdown
+- Introduction to HTML and CSS
 - JavaScript 101
-- JSON, DOM y CSSOM
-- Marcos de interfaz de usuario
-- Bibliotecas JavaScript
-- Bases de datos SQL
-- Introducción a los servidores
-- Integración continua
+- JSON, DOM and CSSOM
+- Basic project structure
+- UI Frameworks
+- JavaScript Libraries
+- SQL databases
+- Introduction to servers
+- Continuous Integration
 
 # About
 🖥️ [LinkedIn](https://www.linkedin.com/in/alison-acosta/)
