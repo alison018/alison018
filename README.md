@@ -47,3 +47,12 @@ EFL Teacher
 *2016 -2017*
 Research Assistant
 
+# Commands that I have learnt
+
+| Commands I have Learnt | Description |
+| ---------------------- | ----------- |
+| ls|list the content of the folder|
+| pwd|prints working directory|
+| cd |change to currenty directory|
+| cd .. |go back to the previous directory|
+
