@@ -55,3 +55,8 @@ Research Assistant
 | cd |change to currenty directory|
 | cd .. |go back to the previous directory|
 
+# Useful alias commands I can use in the future
+
+1. alias h='history|grep '
+2. alias gc='git commit -m'
+
