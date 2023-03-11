@@ -26,8 +26,11 @@ I will be learning a bunch of stuff in Undefined academy for the next 16 months.
 # Education
 **BA in Education** 
 Universidad ABC
+
 **MEd** 
 Universidad ABC
+
+
 **Associates Degree in Computer Technology** 
 Unitech
 
