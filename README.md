@@ -2,7 +2,7 @@
 ### In my 30s decided to change careers and I am here to learn 🚀
 
 
-I have been learning **programming** for the past fourth months. It has been a roller coaster of emotions for the past months. But I keep my will and determination up. I am learning **JavaScript** and I will start creating my *Porfolio*.
+I have been learning **programming** for the past fourth months. It has been a roller coaster of emotions though :D. I keep my will and determination up. I am learning **JavaScript** and I will start creating my *Porfolio*.
 
 I will be learning a bunch of stuff in Undefined academy for the next 16 months. Some of the topics are as follows:
 
