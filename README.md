@@ -1,5 +1,4 @@
-# Hi I am Alison
-### In my 30s decided to change careers and I am here to learn 🚀
+# Hi I am Alison 🚀
 
 
 I have been learning **programming** for the past fourth months. It has been a roller coaster of emotions though :D. I keep my will and determination up. I am learning **JavaScript** and I will start creating my *Porfolio*.
