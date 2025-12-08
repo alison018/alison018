@@ -1,4 +1,4 @@
 # Hi I am Alison 🚀
 
-Lerning JavaScript 
+Learning JavaScript 
 
